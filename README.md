@@ -29,6 +29,4 @@ g++ main.cpp -o main.exe
 
 # Demostracion
 
-<video src="https://cdn.discordapp.com/attachments/995599976463859713/1162860311934681279/demostracion_text_flooder.mp4" width="320" height="240" controls>
-  Tu navegador no soporta la reproducción de videos.
-</video>
+[![Flooder](URL_DE_LA_IMAGEN)](https://cdn.discordapp.com/attachments/995599976463859713/1162860311934681279/demostracion_text_flooder.mp4)
