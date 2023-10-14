@@ -18,7 +18,7 @@ void escribir(const std::string& text) {
         input[1].ki.dwFlags |= KEYEVENTF_KEYUP;
 
         SendInput(2, input, sizeof(INPUT));
-        Sleep(50);
+        Sleep(10);
     }
     final = true;
 }
